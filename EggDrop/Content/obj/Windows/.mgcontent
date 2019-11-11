@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nickolas/Documents/EggDrop/EggDrop/Content/Textures/EggsAndBucketsSpritesheet.png</File>
+    <File>C:/Users/Nickolas/Documents/EggDrop/EggDrop/Content/Fonts/Text.spritefont</File>
+    <File>C:/Users/Nickolas/Documents/EggDrop/EggDrop/Content/Textures/EggDrop.png</File>
+    <File>C:/Users/Nickolas/Documents/EggDrop/EggDrop/Content/Textures/Instructions.png</File>
+    <File>C:/Users/Nickolas/Documents/EggDrop/EggDrop/Content/Textures/GameOver.png</File>
+    <File>C:/Users/Nickolas/Documents/EggDrop/EggDrop/Content/Textures/Background.png</File>
+  </SourceFiles>
+</SourceFileCollection>

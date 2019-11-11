@@ -1,0 +1,114 @@
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\EggsAndBucketsSpritesheet.xnb
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.exe
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.pdb
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\obj\x86\Debug\EggDrop.csprojResolveAssemblyReference.cache
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\obj\x86\Debug\EggDrop.exe
+c:\users\nickolas\documents\visual studio 2015\Projects\EggDrop\EggDrop\obj\x86\Debug\EggDrop.pdb
+C:\Users\001265091\Desktop\EggDrop\EggDrop\obj\x86\Debug\EggDrop.exe
+C:\Users\001265091\Desktop\EggDrop\EggDrop\obj\x86\Debug\EggDrop.pdb
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\EggsAndBucketsSpritesheet.xnb
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.exe
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.pdb
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\001265091\Desktop\EggDrop\EggDrop\obj\x86\Debug\EggDrop.csprojResolveAssemblyReference.cache
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\obj\x86\Debug\EggDrop.exe
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\obj\x86\Debug\EggDrop.pdb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\EggsAndBucketsSpritesheet.xnb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.exe
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.pdb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\obj\x86\Debug\EggDrop.csprojResolveAssemblyReference.cache
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Fonts\Text.xnb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\EggDrop.xnb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\Instructions.xnb
+C:\Users\Nickolas\Desktop\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Fonts\Text.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\EggDrop.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\EggsAndBucketsSpritesheet.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\Content\Textures\Instructions.xnb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.exe
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\EggDrop.pdb
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\obj\x86\Debug\EggDrop.csprojResolveAssemblyReference.cache
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\obj\x86\Debug\EggDrop.exe
+C:\Users\Nickolas\Documents\EggDrop\EggDrop\obj\x86\Debug\EggDrop.pdb
